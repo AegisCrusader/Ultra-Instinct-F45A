@@ -73,6 +73,7 @@ namespace UltraInstinctF45A
                 {
                     Debug.LogError("To copy is null");
                 }
+                //THANK YOU TEMPERZ87 FOR BUTTON CODE
                 //create button object
                 GameObject emptyButton = Instantiate(toCopy, MFDP.displayObj.gameObject.transform);
                 //get transform object (position)
@@ -206,7 +207,7 @@ namespace UltraInstinctF45A
             FuelTankMods(vehicle);
             //FlightAssistMods(vehicle);
             GForceMods(vehicle);
-            CounterMeasureMods(vehicle);
+            //CounterMeasureMods(vehicle);
             AirBrakeMods(vehicle);
             SpeedyAnimationMods(vehicle);
         }
