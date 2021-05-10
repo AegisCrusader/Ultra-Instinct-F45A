@@ -1,0 +1,18 @@
+{
+  "name": "Ultra Instinct F45A",
+  "description": "By popular demand, my Ultra Instinct F-45A is now usable by anyone! Also multiplayer compatable!\r\n\r\nFeatures\r\n- Controllable Supermaneuverability\r\n- Top Speed of Mach 2.75\r\n- Unlimited fuel\r\n- No g-LOC \r\n- Controls respond immediately, flaps have no movement delay\r\n- Extremely fast canopy animation\r\n- Super Landing Gear deployment and retraction\r\n- Over-G Warning disabled for your sanity",
+  "dll_file": "UltraInstinctF45A.dll",
+  "last_edit": 637562571608596525,
+  "pub_id": "",
+  "json_version": "",
+  "version": "1.0.0",
+  "tagline": "Casper's Ultra Instinct F-45A. \"Is that a freaking UFO?!\"",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "preview.png",
+  "web_preview_image": "web_preview.png",
+  "dependencies": [],
+  "mod_dependencies": null,
+  "ContentType": 1
+}
